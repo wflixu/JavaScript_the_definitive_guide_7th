@@ -1,0 +1,16 @@
+{
+  "name": "JavaScript_the_definitive_guide_7th",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": "https://github.com/wflixu/JavaScript_the_definitive_guide_7th.git",
+  "author": "wflixu <wflixu@88.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^0.13.2"
+  }
+}
